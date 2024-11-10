@@ -1,2 +1,0 @@
-# PythonSpace
-Contains python projects
